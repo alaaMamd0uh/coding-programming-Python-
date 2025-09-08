@@ -1,0 +1,3 @@
+[{"id": 1, "name": "alaa", "password": "123456", "phone_number": "011", "email": "alaa@gmail.com", "gender": "female", "age": "18", "city": "ciaro", "balance": 3500},
+  {"id": 2, "name": "ahmed", "password": "112233", "phone_number": "01005", "email": "ahmed@gmail.com", "gender": "male", "age": "18", "city": "Alex", "balance": 2000}
+]
